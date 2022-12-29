@@ -14,7 +14,6 @@ import {
   CRow,
 } from '@coreui/react'
 import CIcon from '@coreui/icons-react'
-import {c} from 'react-router-dom'
 import { cilLockLocked, cilUser } from '@coreui/icons'
 import { connect } from "react-redux";
 import {auth} from '../../Redux/actions/action'
