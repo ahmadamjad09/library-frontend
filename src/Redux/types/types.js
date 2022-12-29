@@ -1,0 +1,6 @@
+export const BOOKS='BOOKS'
+export const USERS='USERS'
+export const ROLES='ROLES'
+export const BOOK='BOOK'
+export const USER='USER'
+export const ROLE='ROLE'
